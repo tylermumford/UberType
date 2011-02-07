@@ -1,0 +1,8 @@
+﻿To create an umlaut, type the letter that needs it, followed by '.e'.
+For example:
+
+a.e > ä
+Ä > Ä
+s.s > ß
+
+Hit Backspace to undo the correction.
