@@ -1,4 +1,14 @@
-﻿#NoEnv
+;    ÜberType - Text substitutions for German characters
+;    Copyright 2011, Tyler Wayne
+;    Version 0.1
+;
+;    This program is copyrighted under the terms of the
+;    Eclipse Public License, version 1.0. The full license
+;    should be included via the file LICENSE.txt. If that
+;    is not the case, please see the following URL:
+;    <http://www.opensource.org/licenses/EPL-1.0>
+    
+#NoEnv
 #SingleInstance Force
 #Persistent
 SendMode Input
